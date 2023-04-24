@@ -1,6 +1,4 @@
 ## 💫 About Me:
-![](https://komarev.com/ghpvc/?username=mgrubisic&style=flat)
-<!-- [![](https://visitcount.itsvg.in/api?id=mgrubisic&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 - 🎓 I’m Assistant Professor at University of Osijek, Faculty of Civil Engineering and Architecture Osijek, Croatia.   
 - 💻 Currently working on developing tools for seismic design, structural analysis and risk/loss assessment of structures.   
@@ -36,7 +34,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mgrubisic&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
+![](https://komarev.com/ghpvc/?username=mgrubisic&style=flat)
+<!-- [![](https://visitcount.itsvg.in/api?id=mgrubisic&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
