@@ -1,10 +1,10 @@
-### Hi there 👋
-
-# 💫 About Me:
+## 💫 About Me:
 ![](https://komarev.com/ghpvc/?username=mgrubisic&style=flat)
 [![](https://visitcount.itsvg.in/api?id=mgrubisic&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+- 🎓 I’m Assistant Professor at University of Osijek, Faculty of Civil Engineering and Architecture Osijek, Croatia.
+- 💻 Currently working on developing tools for seismic design, risk analysis and loss assessment of structures. <br>
+- 🌐 Open to collaboration and discussion with like-minded individuals
 
 ### 💬 Contact
 
