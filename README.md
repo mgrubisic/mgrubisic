@@ -35,11 +35,15 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mgrubisic&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 🎁 Support
-<a href="http://paypal.me/grubisicmarin" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" alt="Paypal" style="height: auto !important;width: auto !important;" ></a>
+<!-- <a href="http://paypal.me/grubisicmarin" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" alt="Paypal" style="height: auto !important;width: auto !important;" ></a>
 
 [![PayPal](https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png)](http://paypal.me/grubisicmarin)
 
-[<img scr="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" alt="PayPal" width="50%" height="50%" title="PayPal">](http://paypal.me/grubisicmarin)
+[<img scr="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" alt="PayPal" width="50%" height="50%" title="PayPal">](http://paypal.me/grubisicmarin) -->
+
+<a href="http://paypal.me/grubisicmarin" title="PayPal">
+  <img src="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" alt="homepage" width="50%" height="50%" />
+</a>
 
 ---
 ![](https://komarev.com/ghpvc/?username=mgrubisic&style=flat)
