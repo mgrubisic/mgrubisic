@@ -42,7 +42,7 @@
 [<img scr="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" alt="PayPal" width="50%" height="50%" title="PayPal">](http://paypal.me/grubisicmarin) -->
 
 <a href="http://paypal.me/grubisicmarin" title="PayPal">
-  <img src="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" alt="homepage" width="50%" height="50%" />
+  <img src="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" alt="homepage" width="20%" height="20%" />
 </a>
 
 ---
