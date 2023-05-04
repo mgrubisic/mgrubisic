@@ -6,13 +6,13 @@
 - 🌐 Open to collaboration and discussion with like-minded individuals.   
 
 ### 💬 Contact
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mgrubisic/)
-[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marin.grubisic@gfos.hr)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mgrubisic)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mgrubisic/)
+[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:marin.grubisic@gfos.hr)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mgrubisic)
 
 ### 📜 Research
-[![Orcid](https://img.shields.io/badge/-Orcid-white?style=flat&labelColor=white&logo=orcid&logoColor=green)](https://orcid.org/0000-0001-8674-0082)
-[![Researchgate](https://img.shields.io/badge/-ResearchGate-green?style=flat&labelColor=green&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Marin-Grubisic)
+[![Orcid](https://img.shields.io/badge/-Orcid-white?style=flat-square&labelColor=white&logo=orcid&logoColor=green)](https://orcid.org/0000-0001-8674-0082)
+[![Researchgate](https://img.shields.io/badge/-ResearchGate-green?style=flat-square&labelColor=green&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Marin-Grubisic)
 
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mgrubisic)
