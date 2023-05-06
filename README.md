@@ -2,7 +2,7 @@
 
 - 🎓 I’m Assistant Professor at University of Osijek, Faculty of Civil Engineering and Architecture Osijek, Croatia.   
 - 🏗️ Interested in Structural Analysis and Dynamics, Earthquake Engineering and Engineering Seismology.   
-- 💻 Currently working on developing tools for seismic design, structural analysis and risk/loss assessment of structures.   
+- 💻 Currently developing, for scientific and professional purposes, tools for seismic design, structural analysis, and risk/loss assessment of structures.    
 - 🌐 Open to collaboration and discussion with like-minded individuals.   
 
 ### 💬 Contact
