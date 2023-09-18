@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats
 <!-- ![](https://github-readme-stats.vercel.app/api?username=mgrubisic&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-stats.vercel.app/api?username=mgrubisic&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mgrubisic&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&theme=dark)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mgrubisic&hide_border=false&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgrubisic&hide_border=false&include_all_commits=true&count_private=true&layout=compact&theme=dark)
 
