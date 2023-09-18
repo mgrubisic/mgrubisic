@@ -25,15 +25,15 @@
 
 ## 📊 GitHub Stats
 <!-- ![](https://github-readme-stats.vercel.app/api?username=mgrubisic&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-stats.vercel.app/api?username=mgrubisic&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&theme=dark)<br/> 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mgrubisic&hide_border=false&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgrubisic&hide_border=false&include_all_commits=true&count_private=true&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=mgrubisic&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark_dimmed)<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=mgrubisic&hide_border=false&theme=github_dark_dimmed)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgrubisic&hide_border=false&include_all_commits=true&count_private=true&layout=compact&theme=github_dark_dimmed)
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mgrubisic&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mgrubisic&limit=5&combine_all_yearly_contributions=true&theme=dark)
+![](https://github-contributor-stats.vercel.app/api?username=mgrubisic&limit=5&combine_all_yearly_contributions=true&theme=github_dark_dimmed)
 
 ### 🎁 Support
 <!-- <a href="http://paypal.me/grubisicmarin" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" alt="Paypal" style="height: auto !important;width: auto !important;" ></a>
