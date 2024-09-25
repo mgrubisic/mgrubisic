@@ -4,7 +4,8 @@
 - 🏗️ Interested in Structural Analysis and Dynamics, Earthquake Engineering and Engineering Seismology.   
 - 💻 Developing tools for seismic design, structural analysis, risk/loss assessment and functional recovery of structures against natural hazards for scientific and professional purposes.
 - 🌐 Open to collaboration and discussion with like-minded individuals.
-- 📫 How to reach me: **marin.grubisic@gfos.hr**        
+- 📫 How to reach me: **marin.grubisic@gfos.hr**
+- ❗️ Soon more news on **www.grit.hr**    
 
 ### 💬 Contact
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mgrubisic/)
