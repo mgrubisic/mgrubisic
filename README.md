@@ -10,7 +10,7 @@
 ### 💬 Contact
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mgrubisic/)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:marin.grubisic@gfos.hr)
-[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mgrubisic)
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/mgrubisic)
 
 ### 📜 Research
 [![Orcid](https://img.shields.io/badge/-Orcid-white?style=flat-square&labelColor=white&logo=orcid&logoColor=green)](https://orcid.org/0000-0001-8674-0082)
