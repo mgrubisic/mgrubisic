@@ -5,7 +5,7 @@
 - 💻 Developing tools for seismic design, structural analysis, risk/loss assessment and functional recovery of structures against natural hazards for scientific and professional purposes.
 - 🌐 Open to collaboration and discussion with like-minded individuals.
 - 📧 How to reach me: **[marin.grubisic@gfos.hr](mailto:marin.grubisic@gfos.hr)** | **[marin.grubisic@grit.hr](mailto:marin.grubisic@grit.hr)**
-- 💬 Soon more news on **[www.grit.hr](https://grit.hr)**    
+- 💬 More excellent news soon available on **[www.grit.hr](https://grit.hr)**    
 
 ### 💬 Contact
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mgrubisic/)
