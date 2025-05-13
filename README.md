@@ -1,7 +1,7 @@
 ## 👋 About Me
 
 - 🎓 Structural Engineer & Assistant Professor at the Faculty of Civil Engineering and Architecture Osijek, University of Osijek, Croatia.   
-- 🏗️ Interested in Structural Analysis and Dynamics, Earthquake Engineering and Engineering Seismology.   
+- 🏗️ Interested in Structural Analysis and Dynamics, Structural Safety, Earthquake Engineering and Engineering Seismology.   
 - 💻 I develop tools for structural/seismic analysis and design, risk/loss assessment, and the functional recovery of structures following natural hazards. These tools serve both scientific and professional purposes.
 - 🌐 Open to collaboration and discussion with like-minded individuals.
 - 📧 Contact: **[marin.grubisic@gfos.hr](mailto:marin.grubisic@gfos.hr)** | **[marin.grubisic@grit.hr](mailto:marin.grubisic@grit.hr)**
