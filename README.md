@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Stats
 <!-- ![](https://github-readme-stats.vercel.app/api?username=mgrubisic&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgrubisic&theme=nord_dark)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgrubisic&hide_border=false&theme=react)<br/>
 ![](https://github-readme-streak-stats-nine-lilac.vercel.app/?user=mgrubisic&hide_border=false&theme=react)<br/>
 ![](https://github-readme-stats-sooty-two-80.vercel.app/api?username=mgrubisic&hide=contribs&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&theme=react)<br/>
 ![](https://github-readme-stats-sooty-two-80.vercel.app/api/top-langs/?username=mgrubisic&hide_border=false&layout=compact&theme=react)
