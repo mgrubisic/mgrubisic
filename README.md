@@ -15,6 +15,7 @@
 ### 📜 Research
 [![Orcid](https://img.shields.io/badge/-Orcid-white?style=flat-square&labelColor=white&logo=orcid&logoColor=green)](https://orcid.org/0000-0001-8674-0082)
 [![Researchgate](https://img.shields.io/badge/-ResearchGate-green?style=flat-square&labelColor=green&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Marin-Grubisic)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=-L_1tXgAAAAJ&hl=en)
 
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mgrubisic)
