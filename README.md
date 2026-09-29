@@ -17,21 +17,15 @@
 [![Researchgate](https://img.shields.io/badge/-ResearchGate-green?style=flat-square&labelColor=green&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Marin-Grubisic)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=-L_1tXgAAAAJ&hl=en)
 
-<!-- 
+
 ## 📊 GitHub Stats
-<!-- ![](https://github-readme-stats.vercel.app/api?username=mgrubisic&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgrubisic&hide_border=false&theme=react)<br/>
-![](https://github-readme-streak-stats-nine-lilac.vercel.app/?user=mgrubisic&hide_border=false&theme=react)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=mgrubisic&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>  -->
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgrubisic&hide_border=false&theme=react)<br/>  -->
+![](https://github-readme-streak-stats-nine-lilac.vercel.app/?user=mgrubisic&hide_border=false&theme=react)
 ![](https://github-readme-stats-sooty-two-80.vercel.app/api?username=mgrubisic&hide=contribs&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&theme=react)<br/>
-![](https://github-readme-stats-sooty-two-80.vercel.app/api/top-langs/?username=mgrubisic&hide_border=false&layout=compact&theme=react)
+<!-- ![](https://github-readme-stats-sooty-two-80.vercel.app/api/top-langs/?username=mgrubisic&hide_border=false&layout=compact&theme=react)  -->
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mgrubisic&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mgrubisic&limit=5&combine_all_yearly_contributions=true&theme=react)
-
-### 🎁 Support
+<!-- ### 🎁 Support
 <!-- <a href="http://paypal.me/grubisicmarin" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" alt="Paypal" style="height: auto !important;width: auto !important;" ></a>
 
 [![PayPal](https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png)](http://paypal.me/grubisicmarin)
