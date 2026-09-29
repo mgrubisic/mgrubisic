@@ -19,10 +19,13 @@
 
 
 ## 📊 GitHub Stats
-<!-- ![](https://github-readme-stats.vercel.app/api?username=mgrubisic&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>  -->
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgrubisic&hide_border=false&theme=react)<br/>  -->
-![](https://github-readme-streak-stats-nine-lilac.vercel.app/?user=mgrubisic&hide_border=false&theme=react)
-![](https://github-readme-stats-sooty-two-80.vercel.app/api?username=mgrubisic&hide=contribs&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&theme=react)<br/>
+<!-- ![](https://github-stats-extended.vercel.app/api?username=mgrubisic&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>  -->
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgrubisic&hide_border=false&theme=react)<br/>  github-readme-streak-stats-nine-lilac.vercel.app     github-readme-stats-sooty-two-80.vercel.app 
+
+![](https://github-readme-streak-stats-nine-lilac.vercel.app/?user=mgrubisic&hide_border=false&theme=react&card_width=450&hide_border=true)<br/> -->
+![](https://streak-stats.demolab.com/?user=mgrubisic&theme=react&card_width=450&hide_border=true)<br/>
+![](https://github-stats-extended.vercel.app/api?username=mgrubisic&hide=contribs&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&theme=react&card_width=450&hide_border=true)<br/>
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=mgrubisic&layout=compact&theme=react&card_width=450&hide_border=true)<br/>
 <!-- ![](https://github-readme-stats-sooty-two-80.vercel.app/api/top-langs/?username=mgrubisic&hide_border=false&layout=compact&theme=react)  -->
 
 <!-- ### 🎁 Support
@@ -35,8 +38,4 @@
 <a href="http://paypal.me/grubisicmarin" title="PayPal">
   <img src="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" alt="homepage" width="20%" height="20%" />
 </a> -->
-
----
-![](https://komarev.com/ghpvc/?username=mgrubisic&style=flat-square)
-<!-- [![](https://visitcount.itsvg.in/api?id=mgrubisic&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
