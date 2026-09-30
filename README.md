@@ -19,23 +19,19 @@
 
 
 ## 📊 GitHub Stats
-<!-- ![](https://github-stats-extended.vercel.app/api?username=mgrubisic&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>  -->
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgrubisic&hide_border=false&theme=react)<br/>  github-readme-streak-stats-nine-lilac.vercel.app     github-readme-stats-sooty-two-80.vercel.app 
-
-![](https://github-readme-streak-stats-nine-lilac.vercel.app/?user=mgrubisic&hide_border=false&theme=react&card_width=450&hide_border=true)<br/> -->
-![](https://streak-stats.demolab.com/?user=mgrubisic&theme=react&card_width=450&hide_border=true)<br/>
-![](https://github-stats-extended.vercel.app/api?username=mgrubisic&hide=contribs&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&theme=react&card_width=450&hide_border=true)<br/>
+<!-- ![](https://github-stats-extended.vercel.app/api?username=mgrubisic&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>   -->
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgrubisic&theme=react&card_width=450&hide_border=true)<br/>  <!-- github-readme-streak-stats-nine-lilac.vercel.app     github-readme-stats-sooty-two-80.vercel.app  -->  
+<!-- ![](https://streak-stats.demolab.com/?user=mgrubisic&theme=react&card_width=450&hide_border=true)<br/>  -->
+![](https://github-readme-streak-stats-nine-lilac.vercel.app/?user=mgrubisic&hide_border=false&theme=react&card_width=450&hide_border=true)<br/>
+![](https://github-stats-extended.vercel.app/api?username=mgrubisic&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&theme=react&card_width=450&hide_border=true)<br/>
 ![](https://github-stats-extended.vercel.app/api/top-langs/?username=mgrubisic&layout=compact&theme=react&card_width=450&hide_border=true)<br/>
 <!-- ![](https://github-readme-stats-sooty-two-80.vercel.app/api/top-langs/?username=mgrubisic&hide_border=false&layout=compact&theme=react)  -->
 
 <!-- ### 🎁 Support
 <!-- <a href="http://paypal.me/grubisicmarin" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" alt="Paypal" style="height: auto !important;width: auto !important;" ></a>
-
 [![PayPal](https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png)](http://paypal.me/grubisicmarin)
-
 [<img scr="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" alt="PayPal" width="50%" height="50%" title="PayPal">](http://paypal.me/grubisicmarin)
 
 <a href="http://paypal.me/grubisicmarin" title="PayPal">
   <img src="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" alt="homepage" width="20%" height="20%" />
 </a> -->
-
