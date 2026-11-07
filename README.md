@@ -6,7 +6,7 @@
 - 🌐 Open to collaboration and discussion with individuals who share common scientific and professional interests.
 - 📧 Reach me at: **[marin.grubisic@gfos.hr](mailto:marin.grubisic@gfos.hr)** / **[marin.grubisic@grit.hr](mailto:marin.grubisic@grit.hr)**
 - 💬 More exciting news coming soon on **[www.grit.hr](https://grit.hr)**    
-
+<a href="https://grit.hr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=800&color=2F81F7&center=false&vCenter=true&width=640&lines=Structural+Dynamics+%7C+Earthquake+Engineering;Seismic+Risk+%26+Loss+Assessment;Structural+Reliability+%26+Sensitivity+Analysis;OpenSeesPy+%C2%B7+Python+%C2%B7+MATLAB" alt="Research topics"/></a>
 ### 💬 Contact
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mgrubisic/)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:marin.grubisic@gfos.hr)
@@ -23,7 +23,7 @@
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgrubisic&theme=react&card_width=450&hide_border=true)<br/>  <!-- github-readme-streak-stats-nine-lilac.vercel.app     github-readme-stats-sooty-two-80.vercel.app  -->  
 <!-- ![](https://streak-stats.demolab.com/?user=mgrubisic&theme=react&card_width=450&hide_border=true)<br/>  -->
 ![](https://github-readme-streak-stats-nine-lilac.vercel.app/?user=mgrubisic&hide_border=false&theme=react&card_width=450&hide_border=true)<br/>
-![](https://github-stats-extended.vercel.app/api?username=mgrubisic&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&theme=react&card_width=450&hide_border=true)<br/>
+![](https://github-stats-extended.vercel.app/api?username=mgrubisic&include_all_commits=true&count_private=false&show_icons=true&theme=react&hide_border=true&card_width=450)<br/>
 ![](https://github-stats-extended.vercel.app/api/top-langs/?username=mgrubisic&layout=compact&theme=react&card_width=450&hide_border=true)<br/>
 <!-- ![](https://github-readme-stats-sooty-two-80.vercel.app/api/top-langs/?username=mgrubisic&hide_border=false&layout=compact&theme=react)  -->
 
