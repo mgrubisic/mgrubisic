@@ -6,7 +6,10 @@
 - 🌐 Open to collaboration and discussion with individuals who share common scientific and professional interests.
 - 📧 Reach me at: **[marin.grubisic@gfos.hr](mailto:marin.grubisic@gfos.hr)** / **[marin.grubisic@grit.hr](mailto:marin.grubisic@grit.hr)**
 - 💬 More exciting news coming soon on **[www.grit.hr](https://grit.hr)**    
-<a href="https://grit.hr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=800&color=2F81F7&center=false&vCenter=true&width=640&lines=Structural+Dynamics+%7C+Earthquake+Engineering;Seismic+Risk+%26+Loss+Assessment;Structural+Reliability+%26+Sensitivity+Analysis;OpenSeesPy+%C2%B7+Python+%C2%B7+MATLAB" alt="Research topics"/></a>
+<a href="https://grit.hr"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=800&color=2F81F7&center=false&vCenter=true&width=800&lines=Structural+Dynamics+%26+Earthquake+Engineering+%26+Engineering+Seismology;Seismic+Risk+%26+Loss+Assessment+%26+Functional+Recovery;Structural+Reliability+%26+Sensitivity+Analysis+%26+Structural+Safety;R%26D+%C2%B7+Machine+Learning+%C2%B7+OpenSees+%C2%B7+Python+%C2%B7+MATLAB" alt="Research topics"/></a>
+
+<!-- <a href="https://grit.hr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=800&color=2F81F7&center=false&vCenter=true&width=640&lines=Structural+Dynamics+%26+Earthquake+Engineering+%26+Engineering Seismology;Seismic+Risk+%26+Loss+Assessment;Structural+Reliability+%26+Sensitivity+Analysis+%26+Structural Safety;OpenSees+%C2%B7+Python+%C2%B7+MATLAB" alt="Research topics"/></a>-->
+
 ### 💬 Contact
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mgrubisic/)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:marin.grubisic@gfos.hr)
